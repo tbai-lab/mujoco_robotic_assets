@@ -17,3 +17,10 @@ camera_name: "" # Set to "head_camera" to enable video streaming
 camera_width: 640
 camera_height: 480
 camera_fps: 30
+
+depth_camera_name: "depth_camera" # Set to "depth_camera" to enable pointcloud publishing
+depth_camera_width: 320
+depth_camera_height: 240
+depth_camera_fps: 10
+depth_camera_stride: 4 # Sample every Nth pixel (1 = full, 4 = 16x fewer points)
+pointcloud_topic: "rt/pointcloud"
