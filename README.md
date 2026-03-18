@@ -14,3 +14,4 @@ This package provides a collection of assets for simulating several commonly use
 | [__G1__](resources/g1/) | Humanoid robot developed by Unitree Robotics (23-DoF and 29-DoF variants) | [Link](https://www.unitree.com/g1) | - |
 | [__H1__](resources/h1/) | 19-DoF humanoid robot developed by Unitree Robotics | [Link](https://www.unitree.com/h1) | - |
 | [__H1_2__](resources/h1_2/) | 27-DoF humanoid robot (H1 v2) developed by Unitree Robotics | [Link](https://www.unitree.com/h1) | - |
+| [__Franka__](resources/franka/) | 7-DoF collaborative robot arm with 2-finger gripper developed by Franka Emika | [Link](https://franka.de/) | BSD-3-Clause |
